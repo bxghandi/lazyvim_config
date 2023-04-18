@@ -9,7 +9,6 @@ return {
       autotag = { enable = true },
       ensure_installed = {
         "bash",
-        "help",
         "html",
         "javascript",
         "json",
@@ -22,6 +21,7 @@ return {
         "tsx",
         "typescript",
         "vim",
+        "vimdoc",
         "yaml",
       },
       auto_install = true,
